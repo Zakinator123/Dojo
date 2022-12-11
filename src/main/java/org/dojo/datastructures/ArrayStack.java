@@ -5,10 +5,10 @@ import java.util.Arrays;
 public class ArrayStack<E> implements Stack<E> {
     private E[] elements;
     private int size;
+    private static final int INITIAL_STACK_CAPACITY = 10;
 
     @SuppressWarnings("unchecked")
     public ArrayStack() {
-        int INITIAL_STACK_CAPACITY = 10;
         this.elements = (E[]) new Object[INITIAL_STACK_CAPACITY];
         this.size = 0;
     }
