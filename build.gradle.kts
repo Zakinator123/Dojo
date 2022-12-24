@@ -10,6 +10,8 @@ repositories {
 }
 
 dependencies {
+    implementation("org.projectlombok:lombok:1.18.24")
+    annotationProcessor("org.projectlombok:lombok:1.18.24")
     testImplementation("org.junit.jupiter:junit-jupiter:5.9.0")
 }
 
