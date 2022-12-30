@@ -69,6 +69,9 @@
       </list>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../Library/Java/JavaVirtualMachines/openjdk-19.0.1/Contents/Home/lib/src.zip!/java.base/java/util/function/IntUnaryOperator.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -266,7 +269,7 @@
       <updated>1670771747020</updated>
       <workItem from="1671828946484" duration="2709000" />
       <workItem from="1671832020065" duration="1263000" />
-      <workItem from="1671833302413" duration="9069000" />
+      <workItem from="1671833302413" duration="15870000" />
     </task>
     <servers />
   </component>
